@@ -3,4 +3,4 @@
 ## demo
 e.g. Atom
 
-!(がぞー)[demo.png]
+![がぞー](demo.png)
