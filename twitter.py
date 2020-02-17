@@ -1,6 +1,5 @@
 def main():
     editor = input("What editor do you like?")
-    type = input("What is it?")
     template = """
 
 
