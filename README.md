@@ -10,4 +10,4 @@ $ python3 twitter.py
 What editor do you like?Atom #好きなエディタの名前（Atomだよな？）を入力せよ
 ```
 
-![がぞー](demo.png)
+![がぞー](demo-atom.png)
